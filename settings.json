@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineQuest01.aternos.me",
-    "port": 29358,
+    "ip": "Funcore.aternos.me",
+    "port": 15804,
     "version": "1.20.1",
     "try-creative": false
   },
