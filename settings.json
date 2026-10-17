@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "startersmp.falixsrv.me",
-    "port": 19132,
+    "port": 37200,
     "version": "1.20.1",
     "try-creative": false
   },
